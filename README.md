@@ -1,2 +1,2 @@
 # SPA-Angular
-Desenvolvendo SPA com Angular.
+Developing Single Page Application with Angular.
